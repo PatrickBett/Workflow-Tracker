@@ -420,8 +420,13 @@ Optional screenshots or walkthrough video can be added here.
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 ---
 
 # Author
 
-Patrick Kipngetich Bett
+
+Developer: Patrick Kipngetich Bett
+Email: patrickbett018@gmail.com
